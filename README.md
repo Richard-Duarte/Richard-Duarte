@@ -1,6 +1,6 @@
 # Hi, I'm Richard Duarte 👋
 
-**Senior Full Stack & AI-Powered Developer** building **AI.R Innovation**.
+**Mid-level Full Stack & AI-Powered Developer** building **AI.R Innovation**.
 
 I build web apps and AI automations end to end with **Claude Code** and **Cursor**, using Next.js, React, Supabase and Vercel, plus AI agents and WhatsApp chatbots that automate sales and support.
 
